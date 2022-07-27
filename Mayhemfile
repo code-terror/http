@@ -1,4 +1,4 @@
-project: code-terror/http
+project: http
 target: fuzz_http
 
 cmds:
