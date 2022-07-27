@@ -1,5 +1,5 @@
 project: http
-target: fuzz_http
+target: fuzz-http
 
 cmds:
   - cmd: ./fuzz_http
